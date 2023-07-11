@@ -1,5 +1,5 @@
 # EWIISModded
-none of mod is mine all credit go to
+none of mod is mine all credit go to\n
 Artemis Games Studio (CurseForge)
 covers1624 (CurseForge)
 TeamCoFH (CurseForge)
